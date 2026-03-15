@@ -1780,7 +1780,7 @@
 		"site": "https://ranobelib.me",
 		"lang": "Русский",
 		"version": "2.2.5",
-		"url": "https://raw.githubusercontent.com/vladvalevskiy/lnreader-plugins/master/.js/src/plugins/russian/ranobelib.js",
+		"url": "https://raw.githubusercontent.com/vladvalevskiy/lnreader-plugins/plugins/.js/src/plugins/russian/ranobelib.js",
 		"iconUrl": "https://raw.githubusercontent.com/vladvalevskiy/lnreader-plugins/master/public/static/src/ru/ranobelib/icon.png"
 	},
 	{
